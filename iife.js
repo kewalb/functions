@@ -77,7 +77,9 @@ let arr2 = [2, 13, 17, 30, 45];
 // })(arr);
 
 // Return median of two sorted arrays of same size
-(function () {})();
+(function () {
+    
+})();
 
 // Remove duplicates from an array
 // (function (arr) {
